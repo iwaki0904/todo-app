@@ -7,7 +7,8 @@ Next.js × TypeScript で構築し、状態管理には useReducer を使用し�
 
 ## デモURL
 
-[Vercelで公開された場合ここにURLを書く]()
+[Todoアプリを開く](https://todo-app-five-navy-42.vercel.app)
+
 
 ---
 
